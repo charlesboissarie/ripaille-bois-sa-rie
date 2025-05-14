@@ -1,0 +1,25 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fff8e1;
+  color: #4e342e;
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+}
+header, footer {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin: 0.5em 0;
+}
+a {
+  color: #6a1b9a;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
